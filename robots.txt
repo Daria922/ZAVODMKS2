@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zavodmks.com.ua/sitemap.xml
